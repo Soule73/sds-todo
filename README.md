@@ -1,3 +1,5 @@
-# todo
+# Todo
 
-A new Flutter project.
+SDS Todo
+
+<img src="./assets/images/screenshot.png" />

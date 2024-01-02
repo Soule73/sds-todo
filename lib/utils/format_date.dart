@@ -8,7 +8,6 @@ String dateFormat(DateTime dateTime) {
   // munite
   DateFormat format = DateFormat("d MMM yyyy à HH:mm");
 
-  // Formater l'objet DateTime avec l'objet DateFormat
   String formattedDate = format.format(dateTime);
 
   return formattedDate;
