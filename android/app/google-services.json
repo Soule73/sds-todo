@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "13253561335",
+    "project_id": "sds-todo",
+    "storage_bucket": "sds-todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13253561335:android:e7f174121bec31fac07cf2",
+        "android_client_info": {
+          "package_name": "com.example.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzJX2FaSmtmrV_ihJTMfFwT-vs_DjwWv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13253561335:android:129b8306395718bfc07cf2",
+        "android_client_info": {
+          "package_name": "com.sds.sdstodo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzJX2FaSmtmrV_ihJTMfFwT-vs_DjwWv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
